@@ -26,10 +26,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create A Resource Group in Microsoft Azure
+- Create A windows Virtual Machine and a Ubuntu Virtual Machine on the same Virtual Network
+- Use Remote Desktop to log into the Windows Virtual Machine and install Wireshark
+- Use Windows Powershell and Wireshark to monitor network traffic via ports
+- Use Windows Powershell to SSH remote login to Ubuntu Virtual Machine.
 
 <h2>Actions and Observations</h2>
 
